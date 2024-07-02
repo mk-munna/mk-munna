@@ -4,14 +4,12 @@
 ## About Me
 <br/>
 <br/>
-<br/>
-<br/>
+
 I'm a passionate Front-End Developer with two years of experience in building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I love exploring new technologies to enhance my skill set. I completed a course on front-end development from Programming Hero, which helped me solidify my knowledge and practical skills.
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 # 🛠 Skills
 <br/>
