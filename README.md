@@ -1,6 +1,5 @@
 <img src="https://i.ibb.co/THpD9kz/Mk-Munna-Banner.jpg" alt="Header" style="width: 100%;"/>
 
-
 # Hello, I'm Mk Munna! 👋
 
 ## About Me
@@ -14,15 +13,34 @@ I'm a passionate Front-End Developer with two years of experience in building re
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ## GitHub Stats
-[![Nurmohammad Munna's GitHub Streak](https://streak-stats.demolab.com/?user=mk-munna)](https://git.io/streak-stats)
+
+### Current Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mk-munna&theme=radical&hide_border=true" alt="Mk Munna's Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mk-munna&show_icons=true&theme=radical&hide_border=true" alt="Mk Munna's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-munna&layout=compact&theme=radical&hide_border=true" alt="Mk Munna's Top Languages"/>
+</div>
+
 ## Pinned Repositories
+
+### [Project One](https://github.com/mk-munna/My-Second-Assignment)
+- **Overview:** A brief description of what this project is and the problem it solves.
+- **Features:**
+  - Feature 1
+  - Feature 2
+  - Feature 3
+- **Technologies Used:** HTML, CSS, JavaScript, React
+- **Local Setup Instructions:**
+  - Clone the repository: `git clone https://github.com/yourusername/project-one.git`
+  - Navigate to the project directory: `cd project-one`
+  - Install dependencies: `npm install`
+  - Run the project: `npm start`
 
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:yourname@example.com)
-
+- [Facebook](https://fb.me/NurmohammadMonna123/)
+- [LinkedIn](https://www.linkedin.com/in/mkmunna/)
+- [Email](mailto:mkmunnaofficial@gmail.com)
 
 <!--
 **mk-munna/mk-munna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
