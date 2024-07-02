@@ -17,15 +17,10 @@ I'm a passionate Front-End Developer with two years of experience in building re
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mk-munna&theme=radical&hide_border=true" alt="Mk Munna's Streak Stats"/>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mk-munna&show_icons=true&theme=radical&hide_border=true" alt="Mk Munna's GitHub Stats"/>
-  <br/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-munna&layout=compact&theme=radical&hide_border=true" alt="Mk Munna's Top Languages"/>
 </div>
 
- <span style="background: -webkit-linear-gradient(#00ff00, #00ff99); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Connect with Me</span>
+ <span style="color: green">Connect with Me</span>
 - [Facebook](https://fb.me/NurmohammadMonna123/)
 - [LinkedIn](https://www.linkedin.com/in/mkmunna/)
 - [Email](mailto:mkmunnaofficial@gmail.com)
