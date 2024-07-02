@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/k9q9KXv/Mk-Muna.jpg" alt="Header" style="width: 100%;"/>
+<img src="https://i.ibb.co/THpD9kz/Mk-Munna-Banner.jpg" alt="Header" style="width: 100%;"/>
 
 
 # Hello, I'm Mk Munna! 👋
