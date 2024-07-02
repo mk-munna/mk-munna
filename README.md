@@ -14,8 +14,7 @@ I'm a passionate Front-End Developer with two years of experience in building re
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ## GitHub Stats
-![Nurmohammad Munna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
+[![Nurmohammad Munna's GitHub Streak](https://streak-stats.demolab.com/?user=mk-munna)](https://git.io/streak-stats)
 ## Pinned Repositories
 
 
