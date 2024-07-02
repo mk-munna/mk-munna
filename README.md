@@ -1,6 +1,10 @@
 <img src="https://i.ibb.co/THpD9kz/Mk-Munna-Banner.jpg" alt="Header" style="width: 100%;"/>
 
-# Hello, I'm Mk Munna! 👋
+<h1 align="center">
+  <span style="background: -webkit-linear-gradient(#ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Hello, I'm Mk Munna! 👋
+  </span>
+</h1>
 
 ## About Me
 I'm a passionate Front-End Developer with two years of experience in building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I love exploring new technologies to enhance my skill set. I completed a course on front-end development from Programming Hero, which helped me solidify my knowledge and practical skills.
@@ -12,17 +16,17 @@ I'm a passionate Front-End Developer with two years of experience in building re
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-## GitHub Stats
+## Current Stats
 
-### Current Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mk-munna&theme=radical&hide_border=true" alt="Mk Munna's Streak Stats"/>
   <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mk-munna&show_icons=true&theme=radical&hide_border=true" alt="Mk Munna's GitHub Stats"/>
+  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-munna&layout=compact&theme=radical&hide_border=true" alt="Mk Munna's Top Languages"/>
 </div>
-
 
 ## Connect with Me
 - [Facebook](https://fb.me/NurmohammadMonna123/)
