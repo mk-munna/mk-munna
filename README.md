@@ -2,8 +2,7 @@
 
 
 ## About Me
-<br/>
-<br/>
+
 I'm a passionate Front-End Developer with two years of experience in building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I love exploring new technologies to enhance my skill set. I completed a course on front-end development from Programming Hero, which helped me solidify my knowledge and practical skills.
 
 <br/>
@@ -12,6 +11,7 @@ I'm a passionate Front-End Developer with two years of experience in building re
 <br/>
 
 # 🛠 Skills
+<br/>
 <br/>
 <br/>
 
@@ -26,12 +26,12 @@ I'm a passionate Front-End Developer with two years of experience in building re
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 # 📊 Current Stats
 <br/>
 <br/>
-
+<br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mk-munna&theme=radical&hide_border=true" alt="Mk Munna's Streak Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mk-munna&show_icons=true&theme=radical&hide_border=true" alt="Mk Munna's GitHub Stats" height="150"/>
@@ -39,9 +39,9 @@ I'm a passionate Front-End Developer with two years of experience in building re
 <br/>
 <br/>
 <br/>
-<br/>
 
 # 📫 Connect with Me
+<br/>
 <br/>
 <br/>
 
@@ -57,7 +57,6 @@ I'm a passionate Front-End Developer with two years of experience in building re
   </a>
 </div>
 
-<br/>
 <br/>
 <br/>
 <br/>
