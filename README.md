@@ -8,20 +8,20 @@ I'm a passionate Front-End Developer with two years of experience in building re
 
 <br/>
 
-# 🛠 Skills
+# 🛠 Familiar With
 <br/>
 <br/>
 
-<p align="center">
-  <img src="https://i.ibb.co/1q3RdF6/file-type-html-226x256.png" height="40" title="HTML5" alt="HTML5"/>
-  <img src="https://i.ibb.co/p1KwGyj/file-type-css-226x256.png" height="40" title="CSS3" alt="CSS3"/>
-  <img src="https://i.ibb.co/2Pfb04N/javascript-js-256x256.png"" height="40" title="JavaScript" alt="JavaScript"/>
-  <img src="https://i.ibb.co/0CCLy3Q/react-256x228.png" height="40" title="React" alt="React"/>
-  <img src="https://i.ibb.co/nB4XHBD/tailwind-css-256x154.png" height="40" title="TailwindCSS" alt="TailwindCSS"/>
-  <img src="https://i.ibb.co/828svq7/bootstrap-256x256.png" height="40" title="Bootstrap" alt="Bootstrap"/>
-  <img src="https://i.ibb.co/TMxnw6n/file-type-firebase-187x256.png" height="40" title="Firebase" alt="Firebase"/>
-  <img src="https://i.ibb.co/NSWHBqd/file-type-node-227x256.png" height="40" title="Node.js" alt="Node.js"/>
-  <img src="https://i.ibb.co/TwYF02w/mongodb-original-231x512.png" height="40" title="MongoDB" alt="MongoDB"/>
+<p align="center" style="background-color: #E5E5E5; padding: 10px; border-radius: 10px;">
+  <img src="https://i.ibb.co/1q3RdF6/file-type-html-226x256.png" height="40" title="HTML5" alt="HTML5" style="margin: 5px;"/>
+  <img src="https://i.ibb.co/p1KwGyj/file-type-css-226x256.png" height="40" title="CSS3" alt="CSS3" style="margin: 5px;"/>
+  <img src="https://i.ibb.co/2Pfb04N/javascript-js-256x256.png" height="40" title="JavaScript" alt="JavaScript" style="margin: 5px;"/>
+  <img src="https://i.ibb.co/0CCLy3Q/react-256x228.png" height="40" title="React" alt="React" style="margin: 5px;"/>
+  <img src="https://i.ibb.co/nB4XHBD/tailwind-css-256x154.png" height="40" title="TailwindCSS" alt="TailwindCSS" style="margin: 5px;"/>
+  <img src="https://i.ibb.co/828svq7/bootstrap-256x256.png" height="40" title="Bootstrap" alt="Bootstrap" style="margin: 5px;"/>
+  <img src="https://i.ibb.co/TMxnw6n/file-type-firebase-187x256.png" height="40" title="Firebase" alt="Firebase" style="margin: 5px;"/>
+  <img src="https://i.ibb.co/NSWHBqd/file-type-node-227x256.png" height="40" title="Node.js" alt="Node.js" style="margin: 5px;"/>
+  <img src="https://i.ibb.co/TwYF02w/mongodb-original-231x512.png" height="40" title="MongoDB" alt="MongoDB" style="margin: 5px;"/>
 </p>
 
 <br/>
