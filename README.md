@@ -17,24 +17,11 @@ I'm a passionate Front-End Developer with two years of experience in building re
 ### Current Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mk-munna&theme=radical&hide_border=true" alt="Mk Munna's Streak Stats"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mk-munna&show_icons=true&theme=radical&hide_border=true" alt="Mk Munna's GitHub Stats"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-munna&layout=compact&theme=radical&hide_border=true" alt="Mk Munna's Top Languages"/>
 </div>
-
-## Pinned Repositories
-
-### [Project One](https://github.com/mk-munna/My-Second-Assignment)
-- **Overview:** A brief description of what this project is and the problem it solves.
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Technologies Used:** HTML, CSS, JavaScript, React
-- **Local Setup Instructions:**
-  - Clone the repository: `git clone https://github.com/yourusername/project-one.git`
-  - Navigate to the project directory: `cd project-one`
-  - Install dependencies: `npm install`
-  - Run the project: `npm start`
 
 
 ## Connect with Me
