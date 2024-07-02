@@ -1,4 +1,5 @@
-![Header](https://i.ibb.co/k9q9KXv/Mk-Muna.jpg)
+<img src="https://i.ibb.co/k9q9KXv/Mk-Muna.jpg" alt="Header" style="width: 100%;"/>
+
 
 # Hello, I'm Mk Munna! 👋
 
