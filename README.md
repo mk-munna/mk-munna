@@ -2,19 +2,19 @@
 
 
 ## About Me
-<br/>
+
 <br/>
 
 I'm a passionate Front-End Developer with two years of experience in building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I love exploring new technologies to enhance my skill set. I completed a course on front-end development from Programming Hero, which helped me solidify my knowledge and practical skills.
 
-<br/>
+
 <br/>
 
 
 # 🛠 Skills
 <br/>
 <br/>
-<br/>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
@@ -24,13 +24,13 @@ I'm a passionate Front-End Developer with two years of experience in building re
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="40"/>
 </p>
 
-<br/>
+
 <br/>
 <br/>
 
 
 # 📊 Current Stats
-<br/>
+
 <br/>
 <br/>
 <div align="center">
@@ -39,12 +39,12 @@ I'm a passionate Front-End Developer with two years of experience in building re
 </div>
 <br/>
 <br/>
-<br/>
+
 
 # 📫 Connect with Me
 <br/>
 <br/>
-<br/>
+
 
 <div align="center">
   <a href="https://fb.me/NurmohammadMonna123/">
@@ -60,7 +60,7 @@ I'm a passionate Front-End Developer with two years of experience in building re
 
 <br/>
 <br/>
-<br/>
+
 
 <!--
 **mk-munna/mk-munna** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
