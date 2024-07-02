@@ -15,19 +15,13 @@ I'm a passionate Front-End Developer with two years of experience in building re
 <p align="center">
   <img src="https://i.ibb.co/1q3RdF6/file-type-html-226x256.png" height="40" title="HTML5" alt="HTML5"/>
   <img src="https://i.ibb.co/p1KwGyj/file-type-css-226x256.png" height="40" title="CSS3" alt="CSS3"/>
-  <img src="/mnt/data/image.png" height="40" title="JavaScript" alt="JavaScript"/>
-  <img src="/mnt/data/image.png" height="40" title="Python" alt="Python"/>
-  <img src="/mnt/data/image.png" height="40" title="C" alt="C"/>
-  <img src="/mnt/data/image.png" height="40" title="C++" alt="C++"/>
-  <img src="/mnt/data/image.png" height="40" title="React" alt="React"/>
-  <img src="/mnt/data/image.png" height="40" title="Redux" alt="Redux"/>
-  <img src="/mnt/data/image.png" height="40" title="Sass" alt="Sass"/>
-  <img src="/mnt/data/image.png" height="40" title="TailwindCSS" alt="TailwindCSS"/>
-  <img src="/mnt/data/image.png" height="40" title="Bootstrap" alt="Bootstrap"/>
-  <img src="/mnt/data/image.png" height="40" title="Firebase" alt="Firebase"/>
-  <img src="/mnt/data/image.png" height="40" title="Node.js" alt="Node.js"/>
-  <img src="/mnt/data/image.png" height="40" title="Express.js" alt="Express.js"/>
-  <img src="/mnt/data/image.png" height="40" title="MongoDB" alt="MongoDB"/>
+  <img src="https://i.ibb.co/2Pfb04N/javascript-js-256x256.png"" height="40" title="JavaScript" alt="JavaScript"/>
+  <img src="https://i.ibb.co/0CCLy3Q/react-256x228.png" height="40" title="React" alt="React"/>
+  <img src="https://i.ibb.co/nB4XHBD/tailwind-css-256x154.png" height="40" title="TailwindCSS" alt="TailwindCSS"/>
+  <img src="https://i.ibb.co/828svq7/bootstrap-256x256.png" height="40" title="Bootstrap" alt="Bootstrap"/>
+  <img src="https://i.ibb.co/TMxnw6n/file-type-firebase-187x256.png" height="40" title="Firebase" alt="Firebase"/>
+  <img src="https://i.ibb.co/NSWHBqd/file-type-node-227x256.png" height="40" title="Node.js" alt="Node.js"/>
+  <img src="https://i.ibb.co/TwYF02w/mongodb-original-231x512.png" height="40" title="MongoDB" alt="MongoDB"/>
 </p>
 
 <br/>
