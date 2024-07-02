@@ -1,8 +1,9 @@
 <img src="https://i.ibb.co/THpD9kz/Mk-Munna-Banner.jpg" alt="Header" style="width: 100%;"/>
 
-# Hello, I'm Mk Munna! 👋
 
 ## About Me
+<br/>
+<br/>
 I'm a passionate Front-End Developer with two years of experience in building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I love exploring new technologies to enhance my skill set. I completed a course on front-end development from Programming Hero, which helped me solidify my knowledge and practical skills.
 
 <br/>
