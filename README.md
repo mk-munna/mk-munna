@@ -13,8 +13,8 @@ I'm a passionate Front-End Developer with two years of experience in building re
 <br/>
 
 <p align="center">
-  <img src="/mnt/data/image.png" height="40" title="HTML5" alt="HTML5"/>
-  <img src="/mnt/data/image.png" height="40" title="CSS3" alt="CSS3"/>
+  <img src="https://i.ibb.co/1q3RdF6/file-type-html-226x256.png" height="40" title="HTML5" alt="HTML5"/>
+  <img src="https://i.ibb.co/p1KwGyj/file-type-css-226x256.png" height="40" title="CSS3" alt="CSS3"/>
   <img src="/mnt/data/image.png" height="40" title="JavaScript" alt="JavaScript"/>
   <img src="/mnt/data/image.png" height="40" title="Python" alt="Python"/>
   <img src="/mnt/data/image.png" height="40" title="C" alt="C"/>
