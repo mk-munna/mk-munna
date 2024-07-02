@@ -1,8 +1,6 @@
-![Header](path_to_your_banner_image)
+![Header]([https://i.ibb.co/k9q9KXv/Mk-Muna.jpg])
 
-# Hello, I'm Nurmohammad Munna! 👋
-
-![Profile views](https://gpvc.arturio.dev/yourusername)
+# Hello, I'm Mk Munna! 👋
 
 ## About Me
 I'm a passionate Front-End Developer with two years of experience in building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I love exploring new technologies to enhance my skill set. I completed a course on front-end development from Programming Hero, which helped me solidify my knowledge and practical skills.
@@ -19,43 +17,6 @@ I'm a passionate Front-End Developer with two years of experience in building re
 
 ## Pinned Repositories
 
-### [Project One](https://github.com/yourusername/project-one)
-- **Overview:** A brief description of what this project is and the problem it solves.
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Technologies Used:** HTML, CSS, JavaScript, React
-- **Local Setup Instructions:**
-  - Clone the repository: `git clone https://github.com/yourusername/project-one.git`
-  - Navigate to the project directory: `cd project-one`
-  - Install dependencies: `npm install`
-  - Run the project: `npm start`
-
-### [Project Two](https://github.com/yourusername/project-two)
-- **Overview:** A brief description of what this project is and the problem it solves.
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Technologies Used:** HTML, CSS, JavaScript, Bootstrap
-- **Local Setup Instructions:**
-  - Clone the repository: `git clone https://github.com/yourusername/project-two.git`
-  - Navigate to the project directory: `cd project-two`
-  - Open the `index.html` file in your browser.
-
-### [Project Three](https://github.com/yourusername/project-three)
-- **Overview:** A brief description of what this project is and the problem it solves.
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Technologies Used:** HTML, CSS, JavaScript, Node.js
-- **Local Setup Instructions:**
-  - Clone the repository: `git clone https://github.com/yourusername/project-three.git`
-  - Navigate to the project directory: `cd project-three`
-  - Install dependencies: `npm install`
-  - Run the project: `npm start`
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
